@@ -1,6 +1,7 @@
 import sys
 import DataLoader as dl
 import logging
+import generator
 
 
 def setup_logger():
@@ -48,10 +49,9 @@ def main():
     logger.info(f"{data_loader.luttrain_data}")
 
     # Predictor generates a json
-    
-    # Get best 20 iterations from json
-    
-    # Calculate fmeans
+    g = generator.Generator(data_loader)
+    g.generate_solution_tree()
+    g.save_best_iteration_to_json('./output/output_file.json')
     
     
 if __name__ == "__main__":
