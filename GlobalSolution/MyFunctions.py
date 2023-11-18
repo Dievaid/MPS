@@ -1,29 +1,44 @@
-import operator
-import random
-#TODO: maria to modify this file to add more functions
+import math
+import numpy as np
+import statistics as s
 
 class MyFunctions:
     def __init__(self):
         
-        # Define basic arithmetic functions
-        self.functions = [self.add,
-                          self.subtract,
-                          self.multiply,
-                          self.divide]
+        # Define functions
+        self.functions = [
+                            self.func_mean,
+                            self.func_hmean,
+                            self.func_gmean,
+                            self.func_median,
+                            self.min_val,
+                            self.max_val,
+                            self.func_sqmean
+                        ]
 
-    def add(self, array):
-        #sum the elements of the array
-        return random.randint(0, 100) / 100
+ 
+    def func_mean(self, globalLine):
+        return np.mesn(globalLine)
 
-    def subtract(self, array):
-        #subtract the elements of the array from the first one
-        return random.randint(0, 100) / 100
+    def func_gmean(self, globalLine):
+        return s.geometric_mean(globalLine)
 
-    def multiply(self, array):
-        #multiply the values from the array
-        return random.randint(0, 100) / 100
+    def func_median(self, globalLine):
+        s.median(globalLine)
 
-    def divide(self, array):
-        #divide the values from the array
-        return random.randint(0, 100) / 100
+    def func_hmean(self, globalLine):
+        return s.harmonic_mean(globalLine)
+
+    def func_sqmean(self, globalLine):
+        sum = 0
+
+        for g in globalLine:
+            sum += g * g
         
+        return math.sqrt(sum / len(globalLine))
+
+    def min_val(self, globalLine):
+        return min(globalLine) 
+
+    def max_val(self, globalLine):
+        return max(globalLine)
