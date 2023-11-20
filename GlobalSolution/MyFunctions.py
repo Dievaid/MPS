@@ -18,13 +18,13 @@ class MyFunctions:
 
  
     def func_mean(self, globalLine):
-        return np.mesn(globalLine)
+        return np.mean(globalLine)
 
     def func_gmean(self, globalLine):
         return s.geometric_mean(globalLine)
 
     def func_median(self, globalLine):
-        s.median(globalLine)
+        return s.median(globalLine)
 
     def func_hmean(self, globalLine):
         return s.harmonic_mean(globalLine)
