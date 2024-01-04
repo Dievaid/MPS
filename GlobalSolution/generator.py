@@ -1,10 +1,5 @@
-#import pandas as pd
 import math
-import glob
-import platform
 import random
-import csv
-import os
 import MyFunctions as mf
 import json
 import numpy as np
@@ -17,40 +12,73 @@ class Generator:
 
     def generate_solution_tree(self):
         # iterate through the solution tree
-        for i in range(10):
-            print('Iteration: ', str(i))
-
-            # apply function to each image in the global_train_data
-            # 1st row to 15296th
-            for img_idx in range(0, random.randint(0, len(self.global_train_data))):
+        rows = len(self.global_train_data)
+        for i in range(1):
+            for img_idx in range(0, rows):
+                number_of_leaves = random.randint(6, len(self.global_train_data[0]) - 1)
                 
-                # generate random number of leaves for each image
-                number_of_leaves = random.randint(2, len(self.global_train_data[0]) - 1)
-                function = random.choice(mf.MyFunctions().functions)
-                # generate the random leaves
                 leaves = list(map(lambda x : float(x), random.sample(self.global_train_data[img_idx], number_of_leaves)))
                 # calculate f_measure for each image
                 score_idx = 0
                 f_measure = 0.0
-                try:
-                    score_idx = round(255 * function(leaves))
-                    if score_idx > 255:
-                        continue
-                    f_measure = self.lut_train_data[img_idx][score_idx]
-                    # print(f"[Iteration {i}] f_measure for {img_idx} is {f_measure}")
-                except:
-                    # print(f"{function(leaves)} {score_idx} {function.__name__}")
-                    exit(0)
+                leaves_copy = leaves.copy()
+                my_functions = mf.MyFunctions().functions
+                steps = {}
+                layers = round(math.sqrt(number_of_leaves))
+                for i in range(layers + 1):
+                    steps["layer" + str(i)] = []
+                self.create_steps(leaves_copy, my_functions, steps, layers)
+                layers = len(steps) - 1
+                score_idx = round((255 * steps["layer" + str(layers)][0][0]) % 255)
+                f_measure = self.lut_train_data[img_idx][score_idx]
 
-                # add generated data for each image to the iteration_data
                 image_data = {
                     "iteration": i,
                     "image_index": img_idx,
-                    "leaves": leaves,
                     "f_measure": float(f_measure),
-                    "function_name": function.__name__
+                    "leaves": leaves,
+                    "score_idx": score_idx,
+                    "steps": steps,
                 }
                 self.solution_tree.append(image_data)
+
+    def create_steps(self, leaves_copy, my_functions, steps, layers):
+        for layer in range(layers):
+            temp_list = []
+            while True:
+                if len(leaves_copy) == 1:
+                    steps["layer" + str(layer)].append([leaves_copy[0], "no_op", leaves_copy[0]])
+                    temp_list.append(leaves_copy[0])
+                    break
+                elif len(leaves_copy) == 0:
+                            # steps["layer" + str(layer)].append(max_score)
+                    break
+                selected_leaves = random.sample(leaves_copy, 2)
+                max_score = [0.0, "", selected_leaves]
+                for func in my_functions:
+                    result = func(selected_leaves)
+                    if result > max_score[0]:
+                        max_score[0] = result
+                        max_score[1] = func.__name__
+                temp_list.append(max_score[0])
+                leaves_copy.remove(selected_leaves[0])
+                leaves_copy.remove(selected_leaves[1])
+                steps["layer" + str(layer)].append(max_score)
+            leaves_copy = temp_list.copy()
+        max_score = [0.0, "", []]
+        if len(steps["layer" + str(layers - 1)]) > 1:
+            selected_leaves = []
+            selected_leaves.append(float(steps["layer" + str(layers - 1)][0][0]))
+            selected_leaves.append(float(steps["layer" + str(layers - 1)][1][0]))
+            for func in my_functions:
+                result = func(selected_leaves)
+                if max_score[0] < result:
+                    max_score[0] = result
+                    max_score[1] = func.__name__
+                    max_score[2] = selected_leaves
+            steps["layer" + str(layers)].append(max_score)
+        else:
+            steps.pop("layer" + str(layers))
             
     # Save the best iteration data to a JSON file
     def save_best_iteration_to_json(self, json_output_file):
@@ -71,13 +99,3 @@ class Generator:
         # Write the final data to the JSON file
         with open(json_output_file, 'w') as json_file:
             json.dump(final_data, json_file, indent=2)
-        
-
-            
-            
-            
-            
-            
-        
-        
-        
