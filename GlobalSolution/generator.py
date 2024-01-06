@@ -16,8 +16,8 @@ class Generator:
         for i in range(1):
             for img_idx in range(0, rows):
                 number_of_leaves = random.randint(12, len(self.global_train_data[0]) - 1)
-                
-                leaves = list(map(lambda x : float(x), random.sample(self.global_train_data[img_idx], number_of_leaves)))
+                leaves_indexes = random.sample(range(len(self.global_train_data[img_idx])), number_of_leaves)
+                leaves = [float(self.global_train_data[img_idx][i]) for i in leaves_indexes]
                 # calculate f_measure for each image
                 score_idx = 0
                 f_measure = 0.0
@@ -36,6 +36,7 @@ class Generator:
                     "iteration": i,
                     "image_index": img_idx,
                     "f_measure": float(f_measure),
+                    "leaves_indexes": leaves_indexes,
                     "leaves": leaves,
                     "score_idx": score_idx,
                     "steps": steps,

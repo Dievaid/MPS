@@ -10,6 +10,7 @@ def main():
     dl = DataLoader('LocalInput/*.CSV')
     dl.load_data()
     tree_steps = get_steps(best_tree_filepath)
+    print(tree_steps)
 
 def get_steps(best_tree_filepath):
     return_data = {}
@@ -21,6 +22,8 @@ def get_steps(best_tree_filepath):
             print(f"Error decoding JSON: {e}")
     i = 0
     tmp = content_data["leaves"].copy()
+    return_data["initial_leaves"] = tmp.copy()
+    return_data["initial_leaves_indexes"] = content_data["leaves_indexes"].copy()
     for key, value in content_data["steps"].items():
         return_data[key] = {}
         return_data[key]["steps"] = []
