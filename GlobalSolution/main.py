@@ -51,7 +51,8 @@ def main():
     # Predictor generates a json
     g = generator.Generator(data_loader)
     g.generate_solution_tree()
-    g.save_best_iteration_to_json('./output/output_file.json')
+    g.save_best_iteration_to_json('./output/output_file.json', \
+        '../LocalSolution/output/best_tree_file.json')
     
     
 if __name__ == "__main__":

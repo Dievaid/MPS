@@ -15,7 +15,7 @@ class Generator:
         rows = len(self.global_train_data)
         for i in range(1):
             for img_idx in range(0, rows):
-                number_of_leaves = random.randint(6, len(self.global_train_data[0]) - 1)
+                number_of_leaves = random.randint(12, len(self.global_train_data[0]) - 1)
                 
                 leaves = list(map(lambda x : float(x), random.sample(self.global_train_data[img_idx], number_of_leaves)))
                 # calculate f_measure for each image
@@ -53,8 +53,9 @@ class Generator:
                 elif len(leaves_copy) == 0:
                             # steps["layer" + str(layer)].append(max_score)
                     break
-                selected_leaves = random.sample(leaves_copy, 2)
-                max_score = [0.0, "", selected_leaves]
+                selected_leaves_indexes = random.sample(range(len(leaves_copy)), 2)
+                selected_leaves = [leaves_copy[i] for i in selected_leaves_indexes]
+                max_score = [0.0, "", (selected_leaves, selected_leaves_indexes)]
                 for func in my_functions:
                     result = func(selected_leaves)
                     if result > max_score[0]:
@@ -75,13 +76,13 @@ class Generator:
                 if max_score[0] < result:
                     max_score[0] = result
                     max_score[1] = func.__name__
-                    max_score[2] = selected_leaves
+                    max_score[2] = (selected_leaves, [0, 1])
             steps["layer" + str(layers)].append(max_score)
         else:
             steps.pop("layer" + str(layers))
             
     # Save the best iteration data to a JSON file
-    def save_best_iteration_to_json(self, json_output_file):
+    def save_best_iteration_to_json(self, json_output_file, best_tree_file):
         # Sort the generated_data based on individual f_measure values
         sorted_generated_data = sorted(self.solution_tree, key=lambda x: x["f_measure"], reverse=True)[:5000]
         f_measure_avg = 0.0
@@ -99,3 +100,5 @@ class Generator:
         # Write the final data to the JSON file
         with open(json_output_file, 'w') as json_file:
             json.dump(final_data, json_file, indent=2)
+        with open(best_tree_file, 'w') as best_tree_json_file:
+            json.dump(sorted_generated_data[0], best_tree_json_file, indent=2)
