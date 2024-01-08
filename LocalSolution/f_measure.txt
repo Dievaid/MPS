@@ -1,0 +1,957 @@
+File name: ./LocalInput\[AVE_INT] 10_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 10_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 2_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 3_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 4_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 5_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 6_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 6_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 6_13.CSV F_measure: 0.00013245033112582781 
+File name: ./LocalInput\[AVE_INT] 6_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 6_2.CSV F_measure: 0.00013242402171753957 
+File name: ./LocalInput\[AVE_INT] 6_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 6_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 7_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_12.CSV F_measure: 0.00027495188342040145 
+File name: ./LocalInput\[AVE_INT] 8_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_6.CSV F_measure: 0.000136986301369863 
+File name: ./LocalInput\[AVE_INT] 8_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 8_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[AVE_INT] 9_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[cmaterdb4.2]000.CSV F_measure: 0.9776785714285714 
+File name: ./LocalInput\[cmaterdb4.2]007.CSV F_measure: 0.9890977192161059 
+File name: ./LocalInput\[cmaterdb4.2]020.CSV F_measure: 0.9829280910501811 
+File name: ./LocalInput\[cmaterdb4.2]021.CSV F_measure: 0.9799554565701559 
+File name: ./LocalInput\[cmaterdb4.2]045.CSV F_measure: 0.9897734108682574 
+File name: ./LocalInput\[cmaterdb4.2]048.CSV F_measure: 0.9753220338983051 
+File name: ./LocalInput\[cmaterdb4.2]050.CSV F_measure: 0.9769173492181683 
+File name: ./LocalInput\[cmaterdb4.2]053.CSV F_measure: 0.9777720005199532 
+File name: ./LocalInput\[cmaterdb4.2]060.CSV F_measure: 0.9864673282639516 
+File name: ./LocalInput\[cmaterdb4.2]064.CSV F_measure: 0.9950159744408946 
+File name: ./LocalInput\[cmaterdb4.2]065.CSV F_measure: 0.9956577266922094 
+File name: ./LocalInput\[cmaterdb4.2]074.CSV F_measure: 0.9952727737319534 
+File name: ./LocalInput\[cmaterdb4.2]084.CSV F_measure: 0.9682572189227934 
+File name: ./LocalInput\[cmaterdb4.2]089.CSV F_measure: 0.9811931243680485 
+File name: ./LocalInput\[cmaterdb4.2]099.CSV F_measure: 0.9993001208882102 
+File name: ./LocalInput\[cmaterdb4.3]001.CSV F_measure: 0.9808496291301416 
+File name: ./LocalInput\[cmaterdb4.3]003.CSV F_measure: 0.9868615095857354 
+File name: ./LocalInput\[cmaterdb4.3]004.CSV F_measure: 0.9756692646560488 
+File name: ./LocalInput\[cmaterdb4.3]006.CSV F_measure: 0.9897734108682574 
+File name: ./LocalInput\[cmaterdb4.3]008.CSV F_measure: 0.9778859809291945 
+File name: ./LocalInput\[cmaterdb4.3]012.CSV F_measure: 0.9967474278128111 
+File name: ./LocalInput\[cmaterdb4.3]013.CSV F_measure: 0.9889624724061811 
+File name: ./LocalInput\[cmaterdb4.3]023.CSV F_measure: 0.990515629174459 
+File name: ./LocalInput\[cmaterdb4.3]024.CSV F_measure: 0.985773721648101 
+File name: ./LocalInput\[cmaterdb4.3]040.CSV F_measure: 0.9876758204956464 
+File name: ./LocalInput\[cmaterdb4.3]041.CSV F_measure: 0.9948792977322605 
+File name: ./LocalInput\[cmaterdb4.3]044.CSV F_measure: 0.9814677538917717 
+File name: ./LocalInput\[cmaterdb4.3]051.CSV F_measure: 0.99732245314293 
+File name: ./LocalInput\[cmaterdb4.3]052.CSV F_measure: 0.9993637867413157 
+File name: ./LocalInput\[cmaterdb4.3]054.CSV F_measure: 0.9919241122932957 
+File name: ./LocalInput\[cmaterdb4.3]058.CSV F_measure: 0.9930213201869518 
+File name: ./LocalInput\[cmaterdb4.3]063.CSV F_measure: 0.9896576090447742 
+File name: ./LocalInput\[cmaterdb4.3]066.CSV F_measure: 1.0 
+File name: ./LocalInput\[cmaterdb4.3]067.CSV F_measure: 0.9916655981536094 
+File name: ./LocalInput\[cmaterdb4.3]068.CSV F_measure: 0.9844385613740556 
+File name: ./LocalInput\[cmaterdb4.3]069.CSV F_measure: 0.9959141981613892 
+File name: ./LocalInput\[cmaterdb4.3]070.CSV F_measure: 0.9848973796308248 
+File name: ./LocalInput\[cmaterdb4.3]075.CSV F_measure: 0.989073145648541 
+File name: ./LocalInput\[cmaterdb4.3]076.CSV F_measure: 0.9893329906181725 
+File name: ./LocalInput\[cmaterdb4.3]081.CSV F_measure: 0.9838480423827368 
+File name: ./LocalInput\[cmaterdb4.3]082.CSV F_measure: 0.9839136895148265 
+File name: ./LocalInput\[cmaterdb4.3]087.CSV F_measure: 0.9924 
+File name: ./LocalInput\[cmaterdb4.3]088.CSV F_measure: 0.9923328221881459 
+File name: ./LocalInput\[cmaterdb4.3]091.CSV F_measure: 0.9815363881401618 
+File name: ./LocalInput\[cmaterdb4.3]092.CSV F_measure: 0.994611853921373 
+File name: ./LocalInput\[cmaterdb4.3]093.CSV F_measure: 0.9967468265612043 
+File name: ./LocalInput\[cmaterdb4.3]094.CSV F_measure: 0.9925343287561659 
+File name: ./LocalInput\[cmaterdb4.3]096.CSV F_measure: 0.9774396983291074 
+File name: ./LocalInput\[cmaterdb4.3]097.CSV F_measure: 0.9711519591810035 
+File name: ./LocalInput\[cmaterdb4.3]098.CSV F_measure: 0.9929568446664105 
+File name: ./LocalInput\[DIBCO_2009]HW_H01.CSV F_measure: 0.06723442402510085 
+File name: ./LocalInput\[DIBCO_2009]HW_H02.CSV F_measure: 0.0 
+File name: ./LocalInput\[DIBCO_2009]HW_H03.CSV F_measure: 0.019580419580419582 
+File name: ./LocalInput\[DIBCO_2009]HW_H05.CSV F_measure: 0.02813405047579644 
+File name: ./LocalInput\[DIBCO_2009]MP_P01.CSV F_measure: 0.06096131301289566 
+File name: ./LocalInput\[DIBCO_2009]MP_P03.CSV F_measure: 0.09408602150537634 
+File name: ./LocalInput\[DIBCO_2009]MP_P04.CSV F_measure: 0.018137847642079808 
+File name: ./LocalInput\[DIBCO_2009]MP_P05.CSV F_measure: 0.0403530895334174 
+File name: ./LocalInput\[DIBCO_2011]HW_HW1.CSV F_measure: 0.025488530161427356 
+File name: ./LocalInput\[DIBCO_2011]HW_HW2.CSV F_measure: 0.026556016597510373 
+File name: ./LocalInput\[DIBCO_2011]HW_HW3.CSV F_measure: 0.09649122807017543 
+File name: ./LocalInput\[DIBCO_2011]HW_HW4.CSV F_measure: 0.02582496413199426 
+File name: ./LocalInput\[DIBCO_2011]HW_HW5.CSV F_measure: 0.031805425631431246 
+File name: ./LocalInput\[DIBCO_2011]HW_HW7.CSV F_measure: 0.012547051442910916 
+File name: ./LocalInput\[DIBCO_2011]HW_HW8.CSV F_measure: 0.03838771593090211 
+File name: ./LocalInput\[DIBCO_2011]MP_PR1.CSV F_measure: 0.05534204458109147 
+File name: ./LocalInput\[DIBCO_2011]MP_PR3.CSV F_measure: 0.07936507936507936 
+File name: ./LocalInput\[DIBCO_2011]MP_PR4.CSV F_measure: 0.04122055674518201 
+File name: ./LocalInput\[DIBCO_2011]MP_PR5.CSV F_measure: 0.05324459234608985 
+File name: ./LocalInput\[DIBCO_2011]MP_PR6.CSV F_measure: 0.00760233918128655 
+File name: ./LocalInput\[DIBCO_2011]MP_PR7.CSV F_measure: 0.01875732708089097 
+File name: ./LocalInput\[DIBCO_2011]MP_PR8.CSV F_measure: 0.09353507565337002 
+File name: ./LocalInput\[DIBCO_2012]HW_H01.CSV F_measure: 0.021027092600080875 
+File name: ./LocalInput\[DIBCO_2012]HW_H02.CSV F_measure: 0.06576125804145819 
+File name: ./LocalInput\[DIBCO_2012]HW_H04.CSV F_measure: 0.015549076773566569 
+File name: ./LocalInput\[DIBCO_2012]HW_H05.CSV F_measure: 0.008419441255262151 
+File name: ./LocalInput\[DIBCO_2012]HW_H06.CSV F_measure: 0.012589413447782546 
+File name: ./LocalInput\[DIBCO_2012]HW_H07.CSV F_measure: 0.0641025641025641 
+File name: ./LocalInput\[DIBCO_2012]HW_H08.CSV F_measure: 0.005455537370430988 
+File name: ./LocalInput\[DIBCO_2012]HW_H09.CSV F_measure: 0.08376963350785341 
+File name: ./LocalInput\[DIBCO_2012]HW_H10.CSV F_measure: 0.06896551724137931 
+File name: ./LocalInput\[DIBCO_2012]HW_H11.CSV F_measure: 0.11135747721113574 
+File name: ./LocalInput\[DIBCO_2012]HW_H13.CSV F_measure: 0.06545064377682404 
+File name: ./LocalInput\[DIBCO_2012]HW_H14.CSV F_measure: 0.01698357024183127 
+File name: ./LocalInput\[DIBCO_2013]HW_HW01.CSV F_measure: 0.03899721448467967 
+File name: ./LocalInput\[DIBCO_2013]HW_HW02.CSV F_measure: 0.01875 
+File name: ./LocalInput\[DIBCO_2013]HW_HW03.CSV F_measure: 0.06570566543747905 
+File name: ./LocalInput\[DIBCO_2013]HW_HW04.CSV F_measure: 0.005103172842245396 
+File name: ./LocalInput\[DIBCO_2013]HW_HW05.CSV F_measure: 0.005099439061703213 
+File name: ./LocalInput\[DIBCO_2013]HW_HW06.CSV F_measure: 0.013068949977467327 
+File name: ./LocalInput\[DIBCO_2013]HW_HW07.CSV F_measure: 0.03481822836661547 
+File name: ./LocalInput\[DIBCO_2013]HW_PR01.CSV F_measure: 0.03352540597171294 
+File name: ./LocalInput\[DIBCO_2013]HW_PR02.CSV F_measure: 0.021410579345088162 
+File name: ./LocalInput\[DIBCO_2013]HW_PR03.CSV F_measure: 0.035196687370600416 
+File name: ./LocalInput\[DIBCO_2013]HW_PR04.CSV F_measure: 0.08725868725868725 
+File name: ./LocalInput\[DIBCO_2013]HW_PR05.CSV F_measure: 0.0813072937425269 
+File name: ./LocalInput\[DIBCO_2013]HW_PR06.CSV F_measure: 0.04837562248043633 
+File name: ./LocalInput\[DIBCO_2013]HW_PR07.CSV F_measure: 0.05569007263922518 
+File name: ./LocalInput\[DIBCO_2013]HW_PR08.CSV F_measure: 0.017453798767967144 
+File name: ./LocalInput\[DIBCO_2017]10.CSV F_measure: 0.9239956568946797 
+File name: ./LocalInput\[DIBCO_2017]11.CSV F_measure: 0.9351177730192719 
+File name: ./LocalInput\[DIBCO_2017]12.CSV F_measure: 0.9534934979061054 
+File name: ./LocalInput\[DIBCO_2017]13.CSV F_measure: 0.9337401918047079 
+File name: ./LocalInput\[DIBCO_2017]14.CSV F_measure: 0.9585826046939715 
+File name: ./LocalInput\[DIBCO_2017]15.CSV F_measure: 0.9219858156028369 
+File name: ./LocalInput\[DIBCO_2017]16.CSV F_measure: 0.9766673024349927 
+File name: ./LocalInput\[DIBCO_2017]17.CSV F_measure: 0.8359869885293614 
+File name: ./LocalInput\[DIBCO_2017]18.CSV F_measure: 0.9524122087298983 
+File name: ./LocalInput\[DIBCO_2017]19.CSV F_measure: 0.9673069064160196 
+File name: ./LocalInput\[DIBCO_2017]2.CSV F_measure: 0.9699950268000221 
+File name: ./LocalInput\[DIBCO_2017]20.CSV F_measure: 0.9418043202033037 
+File name: ./LocalInput\[DIBCO_2017]3.CSV F_measure: 0.9814681422303713 
+File name: ./LocalInput\[DIBCO_2017]4.CSV F_measure: 0.9910455800175049 
+File name: ./LocalInput\[DIBCO_2017]5.CSV F_measure: 0.9924509310518369 
+File name: ./LocalInput\[DIBCO_2017]7.CSV F_measure: 0.9013806706114399 
+File name: ./LocalInput\[DIBCO_2017]8.CSV F_measure: 0.9882291394193042 
+File name: ./LocalInput\[DIBCO_2017]9.CSV F_measure: 0.963409257898604 
+File name: ./LocalInput\[DIBCO_2019]1.CSV F_measure: 0.9701181375955524 
+File name: ./LocalInput\[DIBCO_2019]10.CSV F_measure: 0.9669327251995439 
+File name: ./LocalInput\[DIBCO_2019]11.CSV F_measure: 0.7576250347043192 
+File name: ./LocalInput\[DIBCO_2019]12.CSV F_measure: 0.9026976894229606 
+File name: ./LocalInput\[DIBCO_2019]13.CSV F_measure: 0.9316864897834706 
+File name: ./LocalInput\[DIBCO_2019]14.CSV F_measure: 0.8690860628427906 
+File name: ./LocalInput\[DIBCO_2019]15.CSV F_measure: 0.9638352638352639 
+File name: ./LocalInput\[DIBCO_2019]18.CSV F_measure: 0.9326784166425889 
+File name: ./LocalInput\[DIBCO_2019]19.CSV F_measure: 0.9567426331833357 
+File name: ./LocalInput\[DIBCO_2019]2.CSV F_measure: 0.9780839073262367 
+File name: ./LocalInput\[DIBCO_2019]20.CSV F_measure: 0.776409044886939 
+File name: ./LocalInput\[DIBCO_2019]3.CSV F_measure: 0.9802826158396319 
+File name: ./LocalInput\[DIBCO_2019]5.CSV F_measure: 0.9198387819077474 
+File name: ./LocalInput\[DIBCO_2019]6.CSV F_measure: 0.8514851485148515 
+File name: ./LocalInput\[DIBCO_2019]7.CSV F_measure: 0.933852140077821 
+File name: ./LocalInput\[DIBCO_2019]8.CSV F_measure: 0.9595015576323987 
+File name: ./LocalInput\[DIBCO_2019]9.CSV F_measure: 0.9415929203539823 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_0001r_Layered.CSV F_measure: 0.8787696217507038 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_001v_Layered.CSV F_measure: 0.8698386179852192 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_002r_Layered.CSV F_measure: 0.8846263142938334 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_002v_Layered.CSV F_measure: 0.8488675491165573 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_003v_Layered.CSV F_measure: 0.866179082157211 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_004r_Layered.CSV F_measure: 0.871714206590972 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_004v_Layered.CSV F_measure: 0.8391444830246914 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_005r_Layered.CSV F_measure: 0.8739242970599297 
+File name: ./LocalInput\[Einsieldeln]e-codices_sbe-0611_005v_Layered.CSV F_measure: 0.8471261626520391 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H01.CSV F_measure: 0.18135048231511253 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H02.CSV F_measure: 0.059964726631393295 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H05.CSV F_measure: 0.0012143290831815423 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H08.CSV F_measure: 0.12701612903225806 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H09.CSV F_measure: 0.05382585751978892 
+File name: ./LocalInput\[H-DIBCO_2010]HW_H10.CSV F_measure: 0.051590106007067135 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H01.CSV F_measure: 0.03721223588773258 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H03.CSV F_measure: 0.021457203489742987 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H05.CSV F_measure: 0.11717974180734857 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H06.CSV F_measure: 0.21442885771543085 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H07.CSV F_measure: 0.039850560398505604 
+File name: ./LocalInput\[H-DIBCO_2014]HW_H09.CSV F_measure: 0.0277623542476402 
+File name: ./LocalInput\[H-DIBCO_2016]HW_1.CSV F_measure: 0.014858841010401188 
+File name: ./LocalInput\[H-DIBCO_2016]HW_10.CSV F_measure: 0.03389830508474576 
+File name: ./LocalInput\[H-DIBCO_2016]HW_2.CSV F_measure: 0.01033947957952783 
+File name: ./LocalInput\[H-DIBCO_2016]HW_3.CSV F_measure: 0.005940284508363296 
+File name: ./LocalInput\[H-DIBCO_2016]HW_5.CSV F_measure: 0.0021436227224008574 
+File name: ./LocalInput\[H-DIBCO_2016]HW_7.CSV F_measure: 0.10444177671068428 
+File name: ./LocalInput\[H-DIBCO_2016]HW_8.CSV F_measure: 0.2403789224393132 
+File name: ./LocalInput\[H-DIBCO_2016]HW_9.CSV F_measure: 0.055876685934489405 
+File name: ./LocalInput\[LiveMemory]sbt88_pag_032.CSV F_measure: 0.20891278268982982 
+File name: ./LocalInput\[LiveMemory]sbt88_pag_163.CSV F_measure: 0.9850864704646767 
+File name: ./LocalInput\[LiveMemory]sbt88_pag_257.CSV F_measure: 0.9655206335153215 
+File name: ./LocalInput\[LiveMemory]sbt91_imag_018.CSV F_measure: 0.9705283172619856 
+File name: ./LocalInput\[LiveMemory]sbt94_Pag_321.CSV F_measure: 0.9280377266046056 
+File name: ./LocalInput\[LiveMemory]sbt94_Pag_467.CSV F_measure: 0.9649008582420835 
+File name: ./LocalInput\[LiveMemory]sbt98_pag_084.CSV F_measure: 0.9616729250291337 
+File name: ./LocalInput\[LiveMemory]sbt99_pag_001.CSV F_measure: 0.9527281565196257 
+File name: ./LocalInput\[LiveMemory]sbt99_pag_006.CSV F_measure: 0.9692853278836329 
+File name: ./LocalInput\[LiveMemory]sbt99_pag_045.CSV F_measure: 0.9753737906772207 
+File name: ./LocalInput\[LiveMemory]sbt99_pag_093.CSV F_measure: 0.9656655156687732 
+File name: ./LocalInput\[LiveMemory]sbt99_pag_568.CSV F_measure: 0.960656559328405 
+File name: ./LocalInput\[MAX_INT]10_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]10_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]2_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]3_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]4_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]5_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]6_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_11.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]7_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_15.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]8_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_1.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_10.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_12.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_13.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_14.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_2.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_3.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_4.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_5.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_6.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_7.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_8.CSV F_measure: 0.0 
+File name: ./LocalInput\[MAX_INT]9_9.CSV F_measure: 0.0 
+File name: ./LocalInput\[Nabuco]0021.CSV F_measure: 0.9506931040533427 
+File name: ./LocalInput\[Nabuco]0024.CSV F_measure: 0.9443384775446506 
+File name: ./LocalInput\[Nabuco]0027.CSV F_measure: 0.9587034439769363 
+File name: ./LocalInput\[Nabuco]0062.CSV F_measure: 0.983892384966226 
+File name: ./LocalInput\[Nabuco]0073.CSV F_measure: 0.9613389121338912 
+File name: ./LocalInput\[Nabuco]0079.CSV F_measure: 0.9178617992177314 
+File name: ./LocalInput\[Nabuco]0092.CSV F_measure: 0.9764166393711103 
+File name: ./LocalInput\[Nabuco]0149.CSV F_measure: 0.9651767845230154 
+File name: ./LocalInput\[Nabuco]0749.CSV F_measure: 0.9417312226338834 
+File name: ./LocalInput\[Nabuco]0830.CSV F_measure: 0.9665982203969884 
+File name: ./LocalInput\[Nabuco]1221.CSV F_measure: 0.983326155171353 
+File name: ./LocalInput\[Nabuco]1225.CSV F_measure: 0.984254851702673 
+File name: ./LocalInput\[Nabuco]1247.CSV F_measure: 0.9742342143094106 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisec_TE.CSV F_measure: 0.029069767441860465 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisec_VA.CSV F_measure: 0.023121387283236993 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisep_TE.CSV F_measure: 0.011560693641618497 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisep_TR.CSV F_measure: 0.0449438202247191 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisew_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfre_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisec_TE.CSV F_measure: 0.023054755043227664 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisec_TR.CSV F_measure: 0.005797101449275362 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisec_VA.CSV F_measure: 0.01749271137026239 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisef_TE.CSV F_measure: 0.005747126436781609 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisef_TR.CSV F_measure: 0.011428571428571429 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisep_TE.CSV F_measure: 0.017094017094017096 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisep_TR.CSV F_measure: 0.017094017094017096 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisep_VA.CSV F_measure: 0.011461318051575931 
+File name: ./LocalInput\[NoisyOffice]Fontfrm_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisec_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisec_TR.CSV F_measure: 0.017241379310344827 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisec_VA.CSV F_measure: 0.0345821325648415 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisep_TR.CSV F_measure: 0.017094017094017096 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisep_VA.CSV F_measure: 0.011527377521613832 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisew_TE.CSV F_measure: 0.005780346820809248 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfse_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisec_TE.CSV F_measure: 0.02865329512893983 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisec_TR.CSV F_measure: 0.005797101449275362 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisec_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisep_TE.CSV F_measure: 0.011461318051575931 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisep_VA.CSV F_measure: 0.005747126436781609 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisew_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfsm_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisec_TE.CSV F_measure: 0.017341040462427744 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisec_TR.CSV F_measure: 0.005780346820809248 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisec_VA.CSV F_measure: 0.0058997050147492625 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisef_TR.CSV F_measure: 0.005763688760806916 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisep_TE.CSV F_measure: 0.005747126436781609 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisep_TR.CSV F_measure: 0.011428571428571429 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisep_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisew_TE.CSV F_measure: 0.005797101449275362 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontfte_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisec_TE.CSV F_measure: 0.005780346820809248 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisec_TR.CSV F_measure: 0.0058309037900874635 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisec_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisef_TE.CSV F_measure: 0.005780346820809248 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisep_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisew_TE.CSV F_measure: 0.005797101449275362 
+File name: ./LocalInput\[NoisyOffice]Fontftm_Noisew_VA.CSV F_measure: 0.005813953488372093 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisec_TE.CSV F_measure: 0.00718132854578097 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisec_TR.CSV F_measure: 0.0035587188612099642 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisec_VA.CSV F_measure: 0.007194244604316547 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisef_TR.CSV F_measure: 0.0035650623885918 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisep_TE.CSV F_measure: 0.010582010582010581 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisep_TR.CSV F_measure: 0.01056338028169014 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisep_VA.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisew_TE.CSV F_measure: 0.0035778175313059034 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLre_Noisew_VA.CSV F_measure: 0.0035460992907801418 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisec_TE.CSV F_measure: 0.014134275618374558 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisec_TR.CSV F_measure: 0.01054481546572935 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisec_VA.CSV F_measure: 0.014209591474245116 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisef_VA.CSV F_measure: 0.0035398230088495575 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisep_TE.CSV F_measure: 0.003527336860670194 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisep_TR.CSV F_measure: 0.010526315789473684 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisew_TE.CSV F_measure: 0.0035842293906810036 
+File name: ./LocalInput\[NoisyOffice]FontLrm_Noisew_TR.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisec_TE.CSV F_measure: 0.01054481546572935 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisec_TR.CSV F_measure: 0.01056338028169014 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisef_VA.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisep_TE.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisep_TR.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisep_VA.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisew_TE.CSV F_measure: 0.01763668430335097 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLse_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisec_TE.CSV F_measure: 0.01415929203539823 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisec_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisef_TR.CSV F_measure: 0.0035335689045936395 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisep_TE.CSV F_measure: 0.010526315789473684 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisep_TR.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisep_VA.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisew_TE.CSV F_measure: 0.01060070671378092 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLsm_Noisew_VA.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisec_TE.CSV F_measure: 0.01056338028169014 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisec_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisef_VA.CSV F_measure: 0.0035398230088495575 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisep_TE.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisep_TR.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisep_VA.CSV F_measure: 0.01054481546572935 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLte_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisef_TR.CSV F_measure: 0.003527336860670194 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisep_TE.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisep_TR.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisew_TE.CSV F_measure: 0.0035714285714285713 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]FontLtm_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisec_TE.CSV F_measure: 0.02112676056338028 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisec_TR.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisef_TR.CSV F_measure: 0.0035714285714285713 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisep_TE.CSV F_measure: 0.014035087719298246 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisep_VA.CSV F_measure: 0.014059753954305799 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisew_TE.CSV F_measure: 0.0035335689045936395 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisew_TR.CSV F_measure: 0.021052631578947368 
+File name: ./LocalInput\[NoisyOffice]Fontnre_Noisew_VA.CSV F_measure: 0.010638297872340425 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisec_TE.CSV F_measure: 0.01415929203539823 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisec_TR.CSV F_measure: 0.010526315789473684 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisec_VA.CSV F_measure: 0.0035714285714285713 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisef_TE.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisef_TR.CSV F_measure: 0.0035335689045936395 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisep_TR.CSV F_measure: 0.03125 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisep_VA.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisew_TE.CSV F_measure: 0.007104795737122558 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnrm_Noisew_VA.CSV F_measure: 0.0035587188612099642 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisec_TE.CSV F_measure: 0.01415929203539823 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisec_VA.CSV F_measure: 0.014285714285714285 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisef_VA.CSV F_measure: 0.0035460992907801418 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisep_TE.CSV F_measure: 0.017482517482517484 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisep_TR.CSV F_measure: 0.007029876977152899 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisew_TE.CSV F_measure: 0.01060070671378092 
+File name: ./LocalInput\[NoisyOffice]Fontnse_Noisew_TR.CSV F_measure: 0.0035587188612099642 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisec_TE.CSV F_measure: 0.01763668430335097 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisec_VA.CSV F_measure: 0.01073345259391771 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisef_TR.CSV F_measure: 0.0035398230088495575 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisep_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisep_VA.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisew_TE.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnsm_Noisew_VA.CSV F_measure: 0.007067137809187279 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisec_TE.CSV F_measure: 0.014084507042253521 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisec_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisef_TE.CSV F_measure: 0.01054481546572935 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisef_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisep_TE.CSV F_measure: 0.003527336860670194 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisep_TR.CSV F_measure: 0.0070921985815602835 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisew_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontnte_Noisew_VA.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisec_VA.CSV F_measure: 0.007168458781362007 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisef_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisef_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisef_VA.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisep_TE.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisep_VA.CSV F_measure: 0.0035211267605633804 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisew_TE.CSV F_measure: 0.0 
+File name: ./LocalInput\[NoisyOffice]Fontntm_Noisew_TR.CSV F_measure: 0.0 
+File name: ./LocalInput\[NouvelObservateur]101_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.048 
+File name: ./LocalInput\[NouvelObservateur]102_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.11673956262425447 
+File name: ./LocalInput\[NouvelObservateur]104_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06349712827058072 
+File name: ./LocalInput\[NouvelObservateur]106_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07404664938911515 
+File name: ./LocalInput\[NouvelObservateur]107_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05253940455341506 
+File name: ./LocalInput\[NouvelObservateur]110_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06825580174314817 
+File name: ./LocalInput\[NouvelObservateur]112_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07944655210890426 
+File name: ./LocalInput\[NouvelObservateur]11_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0813832553302132 
+File name: ./LocalInput\[NouvelObservateur]120_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07614798861626029 
+File name: ./LocalInput\[NouvelObservateur]121_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06756492872485842 
+File name: ./LocalInput\[NouvelObservateur]122_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.046259486808818216 
+File name: ./LocalInput\[NouvelObservateur]125_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.003941945887833721 
+File name: ./LocalInput\[NouvelObservateur]126_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06893213282989641 
+File name: ./LocalInput\[NouvelObservateur]127_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.1015949604610642 
+File name: ./LocalInput\[NouvelObservateur]128_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.5527833285755067 
+File name: ./LocalInput\[NouvelObservateur]12_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.16944216944216944 
+File name: ./LocalInput\[NouvelObservateur]131_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.11771995043370508 
+File name: ./LocalInput\[NouvelObservateur]132_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05033434650455927 
+File name: ./LocalInput\[NouvelObservateur]133_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06353674474715995 
+File name: ./LocalInput\[NouvelObservateur]134_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07075795740783146 
+File name: ./LocalInput\[NouvelObservateur]136_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06937255970217016 
+File name: ./LocalInput\[NouvelObservateur]137_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05246913580246913 
+File name: ./LocalInput\[NouvelObservateur]138_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0635744404800519 
+File name: ./LocalInput\[NouvelObservateur]139_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06439241017359709 
+File name: ./LocalInput\[NouvelObservateur]140_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.03729178751968178 
+File name: ./LocalInput\[NouvelObservateur]141_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07551217419285637 
+File name: ./LocalInput\[NouvelObservateur]145_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.12513916722333557 
+File name: ./LocalInput\[NouvelObservateur]148_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.037264357737834285 
+File name: ./LocalInput\[NouvelObservateur]149_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04249390456287008 
+File name: ./LocalInput\[NouvelObservateur]14_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05701754385964912 
+File name: ./LocalInput\[NouvelObservateur]150_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.24087409982617333 
+File name: ./LocalInput\[NouvelObservateur]151_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05367326400536732 
+File name: ./LocalInput\[NouvelObservateur]152_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07461497610196495 
+File name: ./LocalInput\[NouvelObservateur]154_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06248610184567489 
+File name: ./LocalInput\[NouvelObservateur]157_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.029299618703592215 
+File name: ./LocalInput\[NouvelObservateur]158_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06349911190053285 
+File name: ./LocalInput\[NouvelObservateur]15_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.015794871794871795 
+File name: ./LocalInput\[NouvelObservateur]160_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0651849084796414 
+File name: ./LocalInput\[NouvelObservateur]162_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06726587416642506 
+File name: ./LocalInput\[NouvelObservateur]165_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05041384499623777 
+File name: ./LocalInput\[NouvelObservateur]166_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06853582554517133 
+File name: ./LocalInput\[NouvelObservateur]168_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07635166901739539 
+File name: ./LocalInput\[NouvelObservateur]16_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.14584866528400348 
+File name: ./LocalInput\[NouvelObservateur]170_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04856650477831741 
+File name: ./LocalInput\[NouvelObservateur]171_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.027496382054992764 
+File name: ./LocalInput\[NouvelObservateur]172_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05860663691053755 
+File name: ./LocalInput\[NouvelObservateur]176_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07386609071274298 
+File name: ./LocalInput\[NouvelObservateur]177_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.08483405268641167 
+File name: ./LocalInput\[NouvelObservateur]178_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0769933744573909 
+File name: ./LocalInput\[NouvelObservateur]180_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06677658697444352 
+File name: ./LocalInput\[NouvelObservateur]186_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06272655634357761 
+File name: ./LocalInput\[NouvelObservateur]18_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04719260838663824 
+File name: ./LocalInput\[NouvelObservateur]190_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04860222912479444 
+File name: ./LocalInput\[NouvelObservateur]192_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06684027777777778 
+File name: ./LocalInput\[NouvelObservateur]194_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.039943938332165384 
+File name: ./LocalInput\[NouvelObservateur]196_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.01570048309178744 
+File name: ./LocalInput\[NouvelObservateur]200_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.056519983851433184 
+File name: ./LocalInput\[NouvelObservateur]202_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04767580452920143 
+File name: ./LocalInput\[NouvelObservateur]204_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05517241379310345 
+File name: ./LocalInput\[NouvelObservateur]207_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.001806182702327197 
+File name: ./LocalInput\[NouvelObservateur]20_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05156926978759379 
+File name: ./LocalInput\[NouvelObservateur]210_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.051849574751511425 
+File name: ./LocalInput\[NouvelObservateur]22_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.04989499140838796 
+File name: ./LocalInput\[NouvelObservateur]28_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.054454088624942894 
+File name: ./LocalInput\[NouvelObservateur]30_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05046086548976722 
+File name: ./LocalInput\[NouvelObservateur]34_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.045277246653919696 
+File name: ./LocalInput\[NouvelObservateur]36_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.08156417371104084 
+File name: ./LocalInput\[NouvelObservateur]3_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.055777481876017165 
+File name: ./LocalInput\[NouvelObservateur]40_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06164038309210053 
+File name: ./LocalInput\[NouvelObservateur]48_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05432626278040592 
+File name: ./LocalInput\[NouvelObservateur]50_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0630145661811273 
+File name: ./LocalInput\[NouvelObservateur]54_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07423048810200601 
+File name: ./LocalInput\[NouvelObservateur]57_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05562372188139059 
+File name: ./LocalInput\[NouvelObservateur]60_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06280814576634512 
+File name: ./LocalInput\[NouvelObservateur]64_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05238214018458468 
+File name: ./LocalInput\[NouvelObservateur]65_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.052987012987012985 
+File name: ./LocalInput\[NouvelObservateur]66_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.05602923264311815 
+File name: ./LocalInput\[NouvelObservateur]68_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.057609690823297414 
+File name: ./LocalInput\[NouvelObservateur]72_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06716598212128533 
+File name: ./LocalInput\[NouvelObservateur]74_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06847100175746924 
+File name: ./LocalInput\[NouvelObservateur]76_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07453006485654612 
+File name: ./LocalInput\[NouvelObservateur]77_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06581309082206534 
+File name: ./LocalInput\[NouvelObservateur]78_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07314622546721147 
+File name: ./LocalInput\[NouvelObservateur]7_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07246779723843944 
+File name: ./LocalInput\[NouvelObservateur]80_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06024837083487028 
+File name: ./LocalInput\[NouvelObservateur]82_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.056836666347717925 
+File name: ./LocalInput\[NouvelObservateur]86_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.060972102387115326 
+File name: ./LocalInput\[NouvelObservateur]88_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.059776256470195355 
+File name: ./LocalInput\[NouvelObservateur]8_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.0457196174480989 
+File name: ./LocalInput\[NouvelObservateur]90_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06568496207050424 
+File name: ./LocalInput\[NouvelObservateur]91_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.06539833531510107 
+File name: ./LocalInput\[NouvelObservateur]92_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.07060948081264108 
+File name: ./LocalInput\[NouvelObservateur]94_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.039654081417422486 
+File name: ./LocalInput\[NouvelObservateur]96_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.03631336405529954 
+File name: ./LocalInput\[NouvelObservateur]98_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV F_measure: 0.03393817204301075 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P10.CSV F_measure: 0.08050314465408805 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P11.CSV F_measure: 0.07755225689185095 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P12.CSV F_measure: 0.09481743227326266 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P13.CSV F_measure: 0.10734463276836158 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P14.CSV F_measure: 0.09339975093399751 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P17.CSV F_measure: 0.10823958650045606 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P18.CSV F_measure: 0.12816691505216096 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P65.CSV F_measure: 0.09025992573550415 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P66.CSV F_measure: 0.10514478493112173 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P73.CSV F_measure: 0.09382329945269742 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P74.CSV F_measure: 0.08227334235453315 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P75.CSV F_measure: 0.1002710027100271 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P77.CSV F_measure: 0.0784313725490196 
+File name: ./LocalInput\[PalmLeaf-PL1]Bangli-P9.CSV F_measure: 0.07290015847860538 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-10-1534-P1.CSV F_measure: 0.009945300845350571 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-10-1534-P3.CSV F_measure: 0.05961727183513248 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-10-1534-P4.CSV F_measure: 0.05598320503848846 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P1.CSV F_measure: 0.01155115511551155 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P3.CSV F_measure: 0.10152015862524785 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P4.CSV F_measure: 0.0968839297863655 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P5.CSV F_measure: 0.10334099824157987 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P6.CSV F_measure: 0.1004601226993865 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P7.CSV F_measure: 0.08670603485524989 
+File name: ./LocalInput\[PalmLeaf-PL1]IIA-5-789-P8.CSV F_measure: 0.08279328131199577 
+File name: ./LocalInput\[PalmLeaf-PL1]IIB-2-180-P1.CSV F_measure: 0.007789923357205679 
+File name: ./LocalInput\[PalmLeaf-PL1]IIB-2-180-P3.CSV F_measure: 0.11687306501547988 
+File name: ./LocalInput\[PalmLeaf-PL1]IIB-2-180-P4.CSV F_measure: 0.10196855969409432 
+File name: ./LocalInput\[PalmLeaf-PL1]IIB-2-180-P5.CSV F_measure: 0.0949687406966359 
+File name: ./LocalInput\[PalmLeaf-PL1]IIB-2-180-P6.CSV F_measure: 0.1059116913598357 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-12-306-P1.CSV F_measure: 0.021543455806404013 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-12-306-P3.CSV F_measure: 0.11260529037978424 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-12-306-P4.CSV F_measure: 0.09760399823607233 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-12-306-P6.CSV F_measure: 0.10795974382433669 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-12-306-P7.CSV F_measure: 0.13560283687943261 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-42-1526-P1.CSV F_measure: 0.006128987324139852 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-42-1526-P3.CSV F_measure: 0.0719836400817996 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-42-1526-P4.CSV F_measure: 0.06823027718550106 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-45-2296-P1.CSV F_measure: 0.01002710027100271 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-45-2296-P7.CSV F_measure: 0.0997147126749083 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIB-45-2296-P8.CSV F_measure: 0.08574579542321478 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-19-1293-P1.CSV F_measure: 0.01838879159369527 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-19-1293-P3.CSV F_measure: 0.09553775743707094 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-19-1293-P7.CSV F_measure: 0.09021708486044544 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-19-1293-P8.CSV F_measure: 0.07692307692307693 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P1.CSV F_measure: 0.012227538543328018 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P2.CSV F_measure: 0.12487309644670051 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P3.CSV F_measure: 0.11557985162046076 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P4.CSV F_measure: 0.12817851582771148 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P7.CSV F_measure: 0.1163656418033917 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-20-1397-P8.CSV F_measure: 0.13060897435897437 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-23-1506-P1.CSV F_measure: 0.005873340143003065 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-23-1506-P3.CSV F_measure: 0.08500651890482398 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-23-1506-P4.CSV F_measure: 0.07435243591464233 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-23-1506-P5.CSV F_measure: 0.043187952834209405 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-23-1506-P6.CSV F_measure: 0.02855998932336848 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-24-1641-P2.CSV F_measure: 0.1198520974117047 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-24-1641-P3.CSV F_measure: 0.0843717549325026 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-24-1641-P6.CSV F_measure: 0.07270709032884695 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-24-1641-P7.CSV F_measure: 0.07353792704111176 
+File name: ./LocalInput\[PalmLeaf-PL1]IIIC-24-1641-P8.CSV F_measure: 0.07954545454545454 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-01-P10.CSV F_measure: 0.08915629700533297 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-01-P4.CSV F_measure: 0.11417725215359907 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-01-P5.CSV F_measure: 0.11072080932977378 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-01-P6.CSV F_measure: 0.0817028027498678 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-01-P9.CSV F_measure: 0.09069212410501193 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-05-P7.CSV F_measure: 0.09191665435200236 
+File name: ./LocalInput\[PalmLeaf-PL1]JG-05-P8.CSV F_measure: 0.09878419452887538 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-AdiParwa(Purana)-5338.2-IV.a-P3.CSV F_measure: 0.04810776138550353 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P23.CSV F_measure: 0.06324642556770395 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P24.CSV F_measure: 0.05305978068623983 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P26.CSV F_measure: 0.1469218830832902 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P27.CSV F_measure: 0.10845557936377122 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P28.CSV F_measure: 0.08217194570135747 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P29.CSV F_measure: 0.053458068827263616 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P30.CSV F_measure: 0.04710280373831776 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P31.CSV F_measure: 0.07183995150045468 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P33.CSV F_measure: 0.07661225149507031 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P34.CSV F_measure: 0.09523809523809523 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P36.CSV F_measure: 0.11096075778078485 
+File name: ./LocalInput\[PalmLeaf-PL1]MB-TaruPramana-P38.CSV F_measure: 0.08688551363710599 
+File name: ./LocalInput\[PalmLeaf-PL1]WN-P1b.CSV F_measure: 0.014162077104642014 
+File name: ./LocalInput\[PalmLeaf-PL1]WN-P2.CSV F_measure: 0.014084507042253521 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian03.CSV F_measure: 0.025334271639690358 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian04.CSV F_measure: 0.04484732824427481 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian05.CSV F_measure: 0.019088016967126194 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian06.CSV F_measure: 0.016172506738544475 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian07.CSV F_measure: 0.023208191126279865 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian11.CSV F_measure: 0.0299625468164794 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian12.CSV F_measure: 0.025945945945945945 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian13.CSV F_measure: 0.02425467407781708 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian14.CSV F_measure: 0.04883227176220807 
+File name: ./LocalInput\[PHIBD_2012]HW_Persian15.CSV F_measure: 0.013915732508697333 
+File name: ./LocalInput\[RahulSharma]image00.CSV F_measure: 0.1349862258953168 
+File name: ./LocalInput\[RahulSharma]image00a.CSV F_measure: 0.1337579617834395 
+File name: ./LocalInput\[RahulSharma]image00b.CSV F_measure: 0.004561003420752566 
+File name: ./LocalInput\[RahulSharma]image00d.CSV F_measure: 0.0 
+File name: ./LocalInput\[RahulSharma]paper1a.CSV F_measure: 0.04264771212794314 
+File name: ./LocalInput\[RahulSharma]paper1b.CSV F_measure: 0.04154567790931427 
+File name: ./LocalInput\[RahulSharma]paper2.CSV F_measure: 0.0077459333849728895 
+File name: ./LocalInput\[RahulSharma]paper3a.CSV F_measure: 0.002907504997274214 
+File name: ./LocalInput\[S-MS]z100-F1s.CSV F_measure: 0.1708185053380783 
+File name: ./LocalInput\[S-MS]z100-F2s.CSV F_measure: 0.02321083172147002 
+File name: ./LocalInput\[S-MS]z100-F3s.CSV F_measure: 0.0421455938697318 
+File name: ./LocalInput\[S-MS]z100-F4s.CSV F_measure: 0.023143683702989394 
+File name: ./LocalInput\[S-MS]z100-F5s.CSV F_measure: 0.09497206703910614 
+File name: ./LocalInput\[S-MS]z100-F6s.CSV F_measure: 0.15467625899280577 
+File name: ./LocalInput\[S-MS]z100-F8s.CSV F_measure: 0.17259786476868327 
+File name: ./LocalInput\[S-MS]z27-F1s.CSV F_measure: 0.20846905537459284 
+File name: ./LocalInput\[S-MS]z27-F2s.CSV F_measure: 0.1662921348314607 
+File name: ./LocalInput\[S-MS]z27-F3s.CSV F_measure: 0.14915254237288136 
+File name: ./LocalInput\[S-MS]z27-F4s.CSV F_measure: 0.1874310915104741 
+File name: ./LocalInput\[S-MS]z27-F5s.CSV F_measure: 0.2507970244420829 
+File name: ./LocalInput\[S-MS]z27-F6s.CSV F_measure: 0.2317596566523605 
+File name: ./LocalInput\[S-MS]z27-F7s.CSV F_measure: 0.2794577685088634 
+File name: ./LocalInput\[S-MS]z27-F8s.CSV F_measure: 0.25949367088607594 
+File name: ./LocalInput\[S-MS]z30-F1s.CSV F_measure: 0.07929226736566186 
+File name: ./LocalInput\[S-MS]z30-F2s.CSV F_measure: 0.049800796812749 
+File name: ./LocalInput\[S-MS]z30-F3s.CSV F_measure: 0.055666003976143144 
+File name: ./LocalInput\[S-MS]z30-F4s.CSV F_measure: 0.12364563416188655 
+File name: ./LocalInput\[S-MS]z30-F5s.CSV F_measure: 0.1130016051364366 
+File name: ./LocalInput\[S-MS]z30-F6s.CSV F_measure: 0.1164427383237364 
+File name: ./LocalInput\[S-MS]z30-F7s.CSV F_measure: 0.1123234916559692 
+File name: ./LocalInput\[S-MS]z30-F8s.CSV F_measure: 0.10553410553410554 
+File name: ./LocalInput\[S-MS]z31-F1s.CSV F_measure: 0.07492507492507493 
+File name: ./LocalInput\[S-MS]z31-F2s.CSV F_measure: 0.0412796697626419 
+File name: ./LocalInput\[S-MS]z31-F3s.CSV F_measure: 0.025065274151436032 
+File name: ./LocalInput\[S-MS]z31-F4s.CSV F_measure: 0.04538421866941723 
+File name: ./LocalInput\[S-MS]z31-F5s.CSV F_measure: 0.06889564336372847 
+File name: ./LocalInput\[S-MS]z31-F6s.CSV F_measure: 0.06900050735667174 
+File name: ./LocalInput\[S-MS]z31-F8s.CSV F_measure: 0.08449304174950298 
+File name: ./LocalInput\[S-MS]z32-F1s.CSV F_measure: 0.04637955513487932 
+File name: ./LocalInput\[S-MS]z32-F2s.CSV F_measure: 0.021103117505995205 
+File name: ./LocalInput\[S-MS]z32-F3s.CSV F_measure: 0.020163226116178587 
+File name: ./LocalInput\[S-MS]z32-F4s.CSV F_measure: 0.01826045170591062 
+File name: ./LocalInput\[S-MS]z32-F7s.CSV F_measure: 0.05191127890514394 
+File name: ./LocalInput\[S-MS]z32-F8s.CSV F_measure: 0.050070854983467174 
+File name: ./LocalInput\[S-MS]z34-F2s.CSV F_measure: 0.10634648370497427 
+File name: ./LocalInput\[S-MS]z34-F3s.CSV F_measure: 0.1288135593220339 
+File name: ./LocalInput\[S-MS]z34-F4s.CSV F_measure: 0.14453781512605043 
+File name: ./LocalInput\[S-MS]z34-F5s.CSV F_measure: 0.13592233009708737 
+File name: ./LocalInput\[S-MS]z34-F8s.CSV F_measure: 0.1515278359146086 
+File name: ./LocalInput\[S-MS]z35-F2s.CSV F_measure: 0.037037037037037035 
+File name: ./LocalInput\[S-MS]z35-F3s.CSV F_measure: 0.05710102489019034 
+File name: ./LocalInput\[S-MS]z35-F4s.CSV F_measure: 0.1319298245614035 
+File name: ./LocalInput\[S-MS]z35-F6s.CSV F_measure: 0.14732453092425296 
+File name: ./LocalInput\[S-MS]z35-F7s.CSV F_measure: 0.138268156424581 
+File name: ./LocalInput\[S-MS]z36-F1s.CSV F_measure: 0.12321012321012322 
+File name: ./LocalInput\[S-MS]z36-F2s.CSV F_measure: 0.08763586956521739 
+File name: ./LocalInput\[S-MS]z36-F3s.CSV F_measure: 0.06073153899240856 
+File name: ./LocalInput\[S-MS]z36-F4s.CSV F_measure: 0.07452991452991453 
+File name: ./LocalInput\[S-MS]z36-F5s.CSV F_measure: 0.1170177198261451 
+File name: ./LocalInput\[S-MS]z36-F7s.CSV F_measure: 0.12321012321012322 
+File name: ./LocalInput\[S-MS]z36-F8s.CSV F_measure: 0.1294390972452705 
+File name: ./LocalInput\[S-MS]z37-F1s.CSV F_measure: 0.22475106685633 
+File name: ./LocalInput\[S-MS]z37-F2s.CSV F_measure: 0.09181331293037491 
+File name: ./LocalInput\[S-MS]z37-F3s.CSV F_measure: 0.04313099041533546 
+File name: ./LocalInput\[S-MS]z37-F4s.CSV F_measure: 0.06396255850234009 
+File name: ./LocalInput\[S-MS]z37-F5s.CSV F_measure: 0.1106899166034875 
+File name: ./LocalInput\[S-MS]z37-F6s.CSV F_measure: 0.18867924528301888 
+File name: ./LocalInput\[S-MS]z37-F7s.CSV F_measure: 0.2209550962223806 
+File name: ./LocalInput\[S-MS]z38-F1s.CSV F_measure: 0.2470978441127695 
+File name: ./LocalInput\[S-MS]z38-F2s.CSV F_measure: 0.17128027681660898 
+File name: ./LocalInput\[S-MS]z38-F4s.CSV F_measure: 0.12422360248447205 
+File name: ./LocalInput\[S-MS]z38-F5s.CSV F_measure: 0.24126455906821964 
+File name: ./LocalInput\[S-MS]z38-F6s.CSV F_measure: 0.26436781609195403 
+File name: ./LocalInput\[S-MS]z38-F7s.CSV F_measure: 0.24126455906821964 
+File name: ./LocalInput\[S-MS]z38-F8s.CSV F_measure: 0.24126455906821964 
+File name: ./LocalInput\[S-MS]z43-F1s.CSV F_measure: 0.11728009981285091 
+File name: ./LocalInput\[S-MS]z43-F2s.CSV F_measure: 0.03419927655376521 
+File name: ./LocalInput\[S-MS]z43-F3s.CSV F_measure: 0.09067524115755626 
+File name: ./LocalInput\[S-MS]z43-F4s.CSV F_measure: 0.07526535863621743 
+File name: ./LocalInput\[S-MS]z43-F5s.CSV F_measure: 0.12072184194150591 
+File name: ./LocalInput\[S-MS]z43-F6s.CSV F_measure: 0.1311881188118812 
+File name: ./LocalInput\[S-MS]z43-F7s.CSV F_measure: 0.1224743549891203 
+File name: ./LocalInput\[S-MS]z43-F8s.CSV F_measure: 0.1288723667905824 
+File name: ./LocalInput\[S-MS]z48-F1s.CSV F_measure: 0.06814615557049988 
+File name: ./LocalInput\[S-MS]z48-F2s.CSV F_measure: 0.0166358595194085 
+File name: ./LocalInput\[S-MS]z48-F3s.CSV F_measure: 0.040100250626566414 
+File name: ./LocalInput\[S-MS]z48-F5s.CSV F_measure: 0.059869457573711454 
+File name: ./LocalInput\[S-MS]z48-F6s.CSV F_measure: 0.07029326169688829 
+File name: ./LocalInput\[S-MS]z48-F7s.CSV F_measure: 0.05636978579481398 
+File name: ./LocalInput\[S-MS]z48-F8s.CSV F_measure: 0.06422636424882101 
+File name: ./LocalInput\[S-MS]z582-F1s.CSV F_measure: 0.9959785522788204 
+File name: ./LocalInput\[S-MS]z582-F2s.CSV F_measure: 0.9823369565217391 
+File name: ./LocalInput\[S-MS]z582-F3s.CSV F_measure: 0.985781990521327 
+File name: ./LocalInput\[S-MS]z582-F4s.CSV F_measure: 0.9802586793737236 
+File name: ./LocalInput\[S-MS]z582-F6s.CSV F_measure: 0.9966510381781648 
+File name: ./LocalInput\[S-MS]z582-F7s.CSV F_measure: 0.9979933110367893 
+File name: ./LocalInput\[S-MS]z582-F8s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z59-F1s.CSV F_measure: 0.14492753623188406 
+File name: ./LocalInput\[S-MS]z59-F3s.CSV F_measure: 0.028945554789800137 
+File name: ./LocalInput\[S-MS]z59-F6s.CSV F_measure: 0.13531887342181936 
+File name: ./LocalInput\[S-MS]z59-F7s.CSV F_measure: 0.12561015294500488 
+File name: ./LocalInput\[S-MS]z59-F8s.CSV F_measure: 0.13953488372093023 
+File name: ./LocalInput\[S-MS]z592-F1s.CSV F_measure: 0.10225563909774436 
+File name: ./LocalInput\[S-MS]z592-F2s.CSV F_measure: 0.009523809523809525 
+File name: ./LocalInput\[S-MS]z592-F3s.CSV F_measure: 0.02823529411764706 
+File name: ./LocalInput\[S-MS]z592-F7s.CSV F_measure: 0.10225563909774436 
+File name: ./LocalInput\[S-MS]z592-F8s.CSV F_measure: 0.09365558912386707 
+File name: ./LocalInput\[S-MS]z60-F1s.CSV F_measure: 0.04594500522102332 
+File name: ./LocalInput\[S-MS]z60-F4s.CSV F_measure: 0.04464597139867457 
+File name: ./LocalInput\[S-MS]z60-F5s.CSV F_measure: 0.04118673647469459 
+File name: ./LocalInput\[S-MS]z60-F6s.CSV F_measure: 0.05003474635163308 
+File name: ./LocalInput\[S-MS]z60-F7s.CSV F_measure: 0.03706293706293706 
+File name: ./LocalInput\[S-MS]z60-F8s.CSV F_measure: 0.05137105171815342 
+File name: ./LocalInput\[S-MS]z64-F1s.CSV F_measure: 0.12565055762081784 
+File name: ./LocalInput\[S-MS]z64-F2s.CSV F_measure: 0.025196850393700787 
+File name: ./LocalInput\[S-MS]z64-F3s.CSV F_measure: 0.051897753679318356 
+File name: ./LocalInput\[S-MS]z64-F5s.CSV F_measure: 0.13328396890040725 
+File name: ./LocalInput\[S-MS]z64-F7s.CSV F_measure: 0.13051538746755653 
+File name: ./LocalInput\[S-MS]z64-F8s.CSV F_measure: 0.14847482543182652 
+File name: ./LocalInput\[S-MS]z65-F1s.CSV F_measure: 0.14035087719298245 
+File name: ./LocalInput\[S-MS]z65-F2s.CSV F_measure: 0.06445993031358885 
+File name: ./LocalInput\[S-MS]z65-F3s.CSV F_measure: 0.09923011120615911 
+File name: ./LocalInput\[S-MS]z65-F4s.CSV F_measure: 0.11073253833049404 
+File name: ./LocalInput\[S-MS]z65-F5s.CSV F_measure: 0.16336633663366337 
+File name: ./LocalInput\[S-MS]z65-F6s.CSV F_measure: 0.11993243243243243 
+File name: ./LocalInput\[S-MS]z65-F7s.CSV F_measure: 0.1480865224625624 
+File name: ./LocalInput\[S-MS]z65-F8s.CSV F_measure: 0.1511627906976744 
+File name: ./LocalInput\[S-MS]z67-F1s.CSV F_measure: 0.12437810945273632 
+File name: ./LocalInput\[S-MS]z67-F3s.CSV F_measure: 0.0653930933137399 
+File name: ./LocalInput\[S-MS]z67-F4s.CSV F_measure: 0.08470244614822928 
+File name: ./LocalInput\[S-MS]z67-F5s.CSV F_measure: 0.11174785100286533 
+File name: ./LocalInput\[S-MS]z67-F7s.CSV F_measure: 0.11297819091884162 
+File name: ./LocalInput\[S-MS]z67-F8s.CSV F_measure: 0.12415750266051792 
+File name: ./LocalInput\[S-MS]z68-F1s.CSV F_measure: 0.13701657458563535 
+File name: ./LocalInput\[S-MS]z68-F2s.CSV F_measure: 0.01887905604719764 
+File name: ./LocalInput\[S-MS]z68-F4s.CSV F_measure: 0.026916325336454067 
+File name: ./LocalInput\[S-MS]z68-F5s.CSV F_measure: 0.10986547085201794 
+File name: ./LocalInput\[S-MS]z68-F6s.CSV F_measure: 0.1045531197301855 
+File name: ./LocalInput\[S-MS]z70-F2s.CSV F_measure: 0.05460750853242321 
+File name: ./LocalInput\[S-MS]z70-F3s.CSV F_measure: 0.06218202374222725 
+File name: ./LocalInput\[S-MS]z70-F4s.CSV F_measure: 0.05555555555555555 
+File name: ./LocalInput\[S-MS]z70-F6s.CSV F_measure: 0.10706401766004416 
+File name: ./LocalInput\[S-MS]z70-F7s.CSV F_measure: 0.09866962305986696 
+File name: ./LocalInput\[S-MS]z70-F8s.CSV F_measure: 0.09761508596783139 
+File name: ./LocalInput\[S-MS]z76-F1s.CSV F_measure: 0.22844827586206898 
+File name: ./LocalInput\[S-MS]z76-F2s.CSV F_measure: 0.10995770857362552 
+File name: ./LocalInput\[S-MS]z76-F4s.CSV F_measure: 0.2013129102844639 
+File name: ./LocalInput\[S-MS]z76-F5s.CSV F_measure: 0.21304347826086956 
+File name: ./LocalInput\[S-MS]z76-F6s.CSV F_measure: 0.2271746944644141 
+File name: ./LocalInput\[S-MS]z76-F7s.CSV F_measure: 0.20849981837994916 
+File name: ./LocalInput\[S-MS]z76-F8s.CSV F_measure: 0.21691973969631237 
+File name: ./LocalInput\[S-MS]z80-F4s.CSV F_measure: 0.04898728214790391 
+File name: ./LocalInput\[S-MS]z80-F6s.CSV F_measure: 0.16 
+File name: ./LocalInput\[S-MS]z80-F7s.CSV F_measure: 0.1554585152838428 
+File name: ./LocalInput\[S-MS]z80-F8s.CSV F_measure: 0.1481156879929886 
+File name: ./LocalInput\[S-MS]z82-F1s.CSV F_measure: 0.08208695652173913 
+File name: ./LocalInput\[S-MS]z82-F2s.CSV F_measure: 0.05091937765205092 
+File name: ./LocalInput\[S-MS]z82-F3s.CSV F_measure: 0.016624503071919046 
+File name: ./LocalInput\[S-MS]z82-F6s.CSV F_measure: 0.08541666666666667 
+File name: ./LocalInput\[S-MS]z82-F7s.CSV F_measure: 0.09009009009009009 
+File name: ./LocalInput\[S-MS]z82-F8s.CSV F_measure: 0.08541666666666667 
+File name: ./LocalInput\[S-MS]z822-F1s.CSV F_measure: 0.07933194154488518 
+File name: ./LocalInput\[S-MS]z822-F2s.CSV F_measure: 0.053558844256518676 
+File name: ./LocalInput\[S-MS]z822-F3s.CSV F_measure: 0.024337866857551897 
+File name: ./LocalInput\[S-MS]z822-F5s.CSV F_measure: 0.06591865357643759 
+File name: ./LocalInput\[S-MS]z822-F6s.CSV F_measure: 0.08321775312066575 
+File name: ./LocalInput\[S-MS]z822-F7s.CSV F_measure: 0.07127882599580712 
+File name: ./LocalInput\[S-MS]z822-F8s.CSV F_measure: 0.08321775312066575 
+File name: ./LocalInput\[S-MS]z90-F1s.CSV F_measure: 0.09299655568312284 
+File name: ./LocalInput\[S-MS]z90-F3s.CSV F_measure: 0.048693586698337295 
+File name: ./LocalInput\[S-MS]z90-F4s.CSV F_measure: 0.10097532989099255 
+File name: ./LocalInput\[S-MS]z90-F5s.CSV F_measure: 0.0821283979178716 
+File name: ./LocalInput\[S-MS]z90-F6s.CSV F_measure: 0.09742120343839542 
+File name: ./LocalInput\[S-MS]z90-F8s.CSV F_measure: 0.0830929024812464 
+File name: ./LocalInput\[S-MS]z92-F2s.CSV F_measure: 0.9936507936507937 
+File name: ./LocalInput\[S-MS]z92-F4s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z92-F5s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z92-F6s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z92-F7s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z92-F8s.CSV F_measure: 1.0 
+File name: ./LocalInput\[S-MS]z95-F2s.CSV F_measure: 0.022603599832565928 
+File name: ./LocalInput\[S-MS]z95-F4s.CSV F_measure: 0.055121349238996295 
+File name: ./LocalInput\[S-MS]z95-F5s.CSV F_measure: 0.05109188298310672 
+File name: ./LocalInput\[S-MS]z95-F7s.CSV F_measure: 0.045454545454545456 
+File name: ./LocalInput\[S-MS]z95-F8s.CSV F_measure: 0.045454545454545456 
+File name: ./LocalInput\[Salzinnes]009.CSV F_measure: 0.8645790393882106 
+File name: ./LocalInput\[Salzinnes]010.CSV F_measure: 0.8847923712369019 
+File name: ./LocalInput\[Salzinnes]011.CSV F_measure: 0.8424830403384638 
+File name: ./LocalInput\[Salzinnes]012.CSV F_measure: 0.8668023518769787 
+File name: ./LocalInput\[Salzinnes]013.CSV F_measure: 0.8753934611994796 
+File name: ./LocalInput\[Salzinnes]014.CSV F_measure: 0.8694007199830592 
+File name: ./LocalInput\[Salzinnes]015.CSV F_measure: 0.8776477496749298 
+File name: ./LocalInput\[Salzinnes]016.CSV F_measure: 0.8862652934264188 
+File name: ./LocalInput\[Salzinnes]017.CSV F_measure: 0.8677049412430978 
+File name: ./LocalInput\[Salzinnes]018.CSV F_measure: 0.8853126514784295 
+F_average_measure: 0.17809735658262918 
