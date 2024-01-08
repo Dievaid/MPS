@@ -7,15 +7,15 @@ class MyFunctions:
     def __init__(self):
         
         # Define functions
-        self.functions = [
-                            self.func_mean,
-                            self.func_hmean,
-                            self.func_gmean,
-                            self.func_median,
-                            self.min_val,
-                            self.max_val,
-                            self.func_sqmean
-                        ]
+        self.functions = {
+            'func_mean': self.func_mean,
+            'func_hmean': self.func_hmean,
+            'func_gmean': self.func_gmean,
+            'func_median': self.func_median,
+            'min_val': self.min_val,
+            'max_val': self.max_val,
+            'func_sqmean': self.func_sqmean
+        }
 
  
     def func_mean(self, globalLine):
@@ -43,6 +43,12 @@ class MyFunctions:
 
     def max_val(self, globalLine):
         return max(globalLine)
+    
+    def get_function_by_name(self, name):
+        if name in self.functions:
+            return self.functions[name]
+        else:
+            raise ValueError(f"No function with the name '{name}' exists.")
 
 if __name__ == "__main__":
     mf = MyFunctions()
