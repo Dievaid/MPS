@@ -15,8 +15,8 @@ class Generator:
         rows = len(self.global_train_data)
         for i in range(1):
             for img_idx in range(0, rows):
-                number_of_leaves = random.randint(12, len(self.global_train_data[0]) - 1)
-                leaves_indexes = random.sample(range(len(self.global_train_data[img_idx])), number_of_leaves)
+                number_of_leaves = random.randint(8, 10)
+                leaves_indexes = random.sample(range(10), number_of_leaves)
                 leaves = [float(self.global_train_data[img_idx][i]) for i in leaves_indexes]
                 # calculate f_measure for each image
                 score_idx = 0
@@ -52,33 +52,29 @@ class Generator:
                     temp_list.append(leaves_copy[0])
                     break
                 elif len(leaves_copy) == 0:
-                            # steps["layer" + str(layer)].append(max_score)
                     break
                 selected_leaves_indexes = random.sample(range(len(leaves_copy)), 2)
                 selected_leaves = [leaves_copy[i] for i in selected_leaves_indexes]
-                max_score = [0.0, "", (selected_leaves, selected_leaves_indexes)]
-                for func in my_functions:
-                    result = func(selected_leaves)
-                    if result > max_score[0]:
-                        max_score[0] = result
-                        max_score[1] = func.__name__
-                temp_list.append(max_score[0])
+                item = [0.0, "", (selected_leaves, selected_leaves_indexes)]
+                func = random.choice(my_functions)
+                item[0] = func(selected_leaves)
+                item[1] = func.__name__
+                temp_list.append(item[0])
                 leaves_copy.remove(selected_leaves[0])
                 leaves_copy.remove(selected_leaves[1])
-                steps["layer" + str(layer)].append(max_score)
+                steps["layer" + str(layer)].append(item)
             leaves_copy = temp_list.copy()
-        max_score = [0.0, "", []]
+        item = [0.0, "", []]
         if len(steps["layer" + str(layers - 1)]) > 1:
             selected_leaves = []
             selected_leaves.append(float(steps["layer" + str(layers - 1)][0][0]))
             selected_leaves.append(float(steps["layer" + str(layers - 1)][1][0]))
-            for func in my_functions:
-                result = func(selected_leaves)
-                if max_score[0] < result:
-                    max_score[0] = result
-                    max_score[1] = func.__name__
-                    max_score[2] = (selected_leaves, [0, 1])
-            steps["layer" + str(layers)].append(max_score)
+            func = random.choice(my_functions)
+            result = func(selected_leaves)
+            item[0] = result
+            item[1] = func.__name__
+            item[2] = (selected_leaves, [0, 1])
+            steps["layer" + str(layers)].append(item)
         else:
             steps.pop("layer" + str(layers))
             
